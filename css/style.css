@@ -1,0 +1,62 @@
+body {
+  background-color: #41444b;
+  font-family: 'Libre Baskerville', serif;
+}
+
+h1, h2 {
+  font-size: 7rem;
+  font-weight: bold;
+  color: #03c4a1;
+  margin: 40px 20px;
+  display: block;
+}
+
+p {
+  color: #03c4a1;
+  font-size: 1.5rem;
+}
+
+footer {
+  text-align: center;
+  margin: 5%;
+  color: #EEEEEE;
+}
+
+img {
+  width: 80%;
+}
+
+button {
+  display: block;
+  text-align: center;
+  margin: auto;
+  border-radius: 10%;
+  width: 20%;
+  font-size: 2rem;
+  font-family: 'Libre Baskerville', serif;
+  background-color: #03c4a1;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+button:hover {
+  background-color: #a20a0a;
+}
+
+.container {
+  text-align: center;
+  width: 70%;
+  margin: auto;
+}
+
+.players {
+  display: inline-block;
+}
+
+.result {
+  font-size: 5rem;
+}
